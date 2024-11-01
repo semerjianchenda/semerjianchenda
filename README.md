@@ -3,7 +3,6 @@
     <h4 align="center">Full Stack Engineer</h4>
     <h5 align="center">Boston MA</h5>
      <img src="https://img.shields.io/badge/Profile_views-1500-blue" align="center"> 
-   
     <h4>About Me</h4>
     <p>Passionate Software Engineer skilled in creating innovative websites and digital solutions. Currently working as a Full Stack Developer at Resilient Coders, alongside freelancing projects that keep me engaged and inspired. My work emphasizes a blend of creativity, functionality, and scalability to meet diverse user needs. Outside of work, I enjoy traveling and watching anime, both of which fuel my curiosity and creativity in tech. I’m always open to connecting with others who share an interest in technology and innovation!</p>
     <h4>Tech Stack:</h4>
