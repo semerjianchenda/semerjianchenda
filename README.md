@@ -3,7 +3,7 @@
     <h4 align="center">Full Stack Engineer</h4>
     <a target="_blank" href="https://semerjiankrants.netlify.app" align="center">Website</a>
      <img src="https://img.shields.io/badge/Profile_views-1500-blue" align="center"> 
-    <h5 align="center">Based in Boston MA</h5>
+    <h5 align="center">Boston MA</h5>
 
     <h4>About Me</h4>
         <p>I am a passionate Software Engineer who enjoys creating and designing innovative websites and solutions. Currently working at Resilient Coders as a Full Stack developer and free-lancing. In my spare time I love to travel and watch Anime.</p>
