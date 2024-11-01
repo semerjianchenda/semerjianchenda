@@ -1,6 +1,7 @@
 
 <h1 align="center">Chenda Semerjian-Krants</h1>
     <h4 align="center">Software Engineer</h4>
+    <a target="_blank" href="https://semerjiankrants.netlify.app">Website</a>
      <img src="https://img.shields.io/badge/Profile_views-1500-blue"> 
     <h5>Based in Boston MA</h5>
     <h5>Open to Full-Time roles</h5>
