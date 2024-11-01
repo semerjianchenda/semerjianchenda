@@ -1,6 +1,7 @@
 
 <h1 align="center">Chenda Semerjian-Krants</h1>
     <h4 align="center">Full Stack Engineer</h4>
+    <h5 align="center">Boston MA</h5>
     <a target="_blank" href="https://semerjiankrants.netlify.app" align="center">Website</a>
      <img src="https://img.shields.io/badge/Profile_views-1500-blue" align="center"> 
     <h5 align="center">Boston MA</h5>
