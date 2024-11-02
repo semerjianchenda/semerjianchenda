@@ -1,6 +1,6 @@
 <p align="center">
   <a target="_blank" href="https://semerjiankrants.netlify.app">
-    <img height="200" width="400" alt="Chenda Semerjian" src="https://github.com/user-attachments/assets/58b5f941-357a-42ad-b349-849e964d6d4f">
+    <img height="300" width="400" alt="Chenda Semerjian" src="https://github.com/user-attachments/assets/58b5f941-357a-42ad-b349-849e964d6d4f">
   </a>
 </p>
     <h4 align="center">Full Stack Engineer</h4>
